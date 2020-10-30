@@ -38,3 +38,4 @@ The main purpose of this site will be to create a collection of helpful resource
 - General practice
 - Bootcamps
 - Online Programming Schools
+- Design (UI/UX)
